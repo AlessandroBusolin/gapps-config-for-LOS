@@ -1,4 +1,4 @@
-# gapps-config for Sultan-bacon, Alessandro Busolin 2017
+# gapps-config for Sultan-bacon 13.0, Alessandro Busolin 2017
 # Run with OpenGApps "Stock" 6.0
 
 Exclude
