@@ -1,0 +1,34 @@
+# gapps-config for Sultan-bacon, Alessandro Busolin 2017
+# Run with OpenGApps "Stock" 6.0
+
+Exclude
+
+CMUpdater              # Remove CM Updater
+
+Include
+
+# Pico+
+DialerFramework        # Install Dialer Framework
+GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
+PackageInstallerGoogle # Install Google Package Installer
+
+# Micro+
+Gmail                  # Install Gmail
+CalendarGoogle         # Install Google Calendar
+ExchangeGoogle         # Install Google Exchange Services
+
+# Mini+
+CalculatorGoogle       # Install Google Calculator
+ClockGoogle            # Install Google Clock
+Maps                   # Install Google Maps
+Photos                 # Install Google Photos
+YouTube                # Install YouTube
+
+# Full+
+Chrome                 # Install Google Chrome Browser
+
+# Stock+
+ContactsGoogle         # Install Google Contacts
+DialerGoogle           # Install Google Dialer
+Messenger              # Install Google Messenger (except on tablet devices)
+WebViewGoogle          # Install Google Webview
