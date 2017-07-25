@@ -25,9 +25,9 @@ YouTube                # Install YouTube
 Chrome                 # Install Google Chrome Browser
 
 # Stock+
-# CameraGoogle           # Install Google Camera (If you want the stock camera)
+# CameraGoogle           # Install Google Camera (Remove the first # of the line if you want the stock camera)
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
-# KeyboardGoogle         # Install Google Keyboard (If you want the google keyboard)
+# KeyboardGoogle         # Install Google Keyboard (Remove the first # of the line if you want the google keyboard)
 Messenger              # Install Google Messenger (except on tablet devices)
 WebViewGoogle          # Install Google Webview
