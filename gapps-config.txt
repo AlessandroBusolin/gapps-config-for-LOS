@@ -1,5 +1,6 @@
 # gapps-config for CyanogenMod 13.0, Alessandro Busolin 2017
 # Run with OpenGApps "Stock" 6.0
+# https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options
 
 Include
 
@@ -24,7 +25,9 @@ YouTube                # Install YouTube
 Chrome                 # Install Google Chrome Browser
 
 # Stock+
+# CameraGoogle           # Install Google Camera (If you want the stock camera)
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
+# KeyboardGoogle         # Install Google Keyboard (If you want the google keyboard)
 Messenger              # Install Google Messenger (except on tablet devices)
 WebViewGoogle          # Install Google Webview
