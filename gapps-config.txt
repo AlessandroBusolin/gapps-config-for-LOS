@@ -1,7 +1,7 @@
 # gapps-config for CyanogenMod 13.0, Alessandro Busolin 2017
 # Run with OpenGApps "Stock" 6.0
 # https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options
-# Read for Sultan rom: https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700
+# Ready for Sultan rom: https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700
 
 Include
 
