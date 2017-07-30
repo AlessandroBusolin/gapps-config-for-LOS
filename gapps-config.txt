@@ -1,6 +1,7 @@
 # gapps-config for CyanogenMod 13.0, Alessandro Busolin 2017
 # Run with OpenGApps "Stock" 6.0
 # https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options
+# Read for Sultan rom: https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700
 
 Include
 
@@ -19,15 +20,15 @@ CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
 Photos                 # Install Google Photos
-YouTube                # Install YouTube
+# YouTube                # Install YouTube (Remove the first # of the line if you want the Youtube app)
 
 # Full+
 Chrome                 # Install Google Chrome Browser
 
 # Stock+
-# CameraGoogle           # Install Google Camera (Remove the first # of the line if you want the stock camera)
+# CameraGoogle           # Install Google Camera (Remove the first # of the line if you want the Google stock camera)
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
-# KeyboardGoogle         # Install Google Keyboard (Remove the first # of the line if you want the google keyboard)
+# KeyboardGoogle         # Install Google Keyboard (Remove the first # of the line if you want the Google keyboard)
 Messenger              # Install Google Messenger (except on tablet devices)
 WebViewGoogle          # Install Google Webview
