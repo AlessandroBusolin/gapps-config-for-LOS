@@ -19,7 +19,7 @@ ExchangeGoogle         # Install Google Exchange Services
 CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
-Photos                 # Install Google Photos
+# Photos                 # Install Google Photos (Remove the first # of the line if you want the Google Photos)
 # YouTube                # Install YouTube (Remove the first # of the line if you want the Youtube app)
 
 # Full+
