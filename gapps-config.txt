@@ -1,7 +1,7 @@
-# gapps-config for CyanogenMod 13.0, Alessandro Busolin 2017
-# Run with OpenGApps "Stock" 6.0
+# gapps-config for CyanogenMod 13.0, LineageOS 14.1, Alessandro Busolin 2017
+# Run with "OpenGApps Stock 6.0" or "OpenGApps Stock 7.1"
 # https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options
-# Ready for Sultan rom: https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700
+# Ready for Sultan ROM 13 / 14.1: https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700 or https://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-lineageos-14-1-3-t3626403
 
 Include
 
