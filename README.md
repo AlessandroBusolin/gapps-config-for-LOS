@@ -1,9 +1,8 @@
-gapps-config-for-OPO
-====================
+# gapps-config-for-OPO
 
 **Implemented**
 
-	OPO: `Ready for LineageOS 14.1`
+	OPO: Ready for LineageOS 14.1
 
 **Description**
 
