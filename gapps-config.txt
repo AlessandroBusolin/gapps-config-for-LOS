@@ -13,7 +13,7 @@ GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on
 PackageInstallerGoogle # Install Google Package Installer
 
 # Micro+
-BatteryUsage           # Install Device Health Services (7.1+)
+BatteryUsage           # Install Device Health Services (WARNING! Use this line only if you install Android 7.1+)
 Gmail                  # Install Gmail
 CalendarGoogle         # Install Google Calendar
 ExchangeGoogle         # Install Google Exchange Services
