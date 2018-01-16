@@ -23,13 +23,12 @@ CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
 Photos                 # Install Google Photos
-YouTube                # Install YouTube
 
 # Full+
 Chrome                 # Install Google Chrome Browser
 
 # Stock+
-CameraGoogle           # Install Google Camera
+# CameraGoogle         # Install Google Camera (remove the first hash if you want the Google camera)
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
 KeyboardGoogle         # Install Google Keyboard
