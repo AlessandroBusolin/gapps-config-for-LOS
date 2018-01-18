@@ -3,11 +3,11 @@
 # gapps-config-for-OPO
 > The gapps-config-for-OPO provides an essential GApps experience on Android devices.
 
-[![GitHub release]](https://github.com/AlessandroBusolin/gapps-config-for-OPO/releases/latest)
+[![Build Status] [![GitHub release]][version-image]][version-url]
 
 **Implemented**
 
-	OPO: Ready for LineageOS 14.1
+	OPO: Ready for LineageOS 14.1, CyanogenMOD 13.0.
 
 **Description**
 
