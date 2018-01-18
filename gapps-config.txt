@@ -29,7 +29,7 @@ YouTube                # Install YouTube
 Chrome                 # Install Google Chrome Browser
 
 # Stock+
-# CameraGoogle         # Install Google Camera (remove the first hash if you want CameraGoogle)
+# CameraGoogle           # Install Google Camera (remove the first hash if you want CameraGoogle)
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
 KeyboardGoogle         # Install Google Keyboard
