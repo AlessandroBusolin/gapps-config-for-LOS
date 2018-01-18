@@ -1,3 +1,5 @@
+![](http://opengapps.org/images/logo.svg)
+
 # gapps-config-for-OPO
 
 **Implemented**
