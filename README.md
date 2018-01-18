@@ -3,7 +3,7 @@
 # gapps-config-for-OPO
 > The gapps-config-for-OPO provides an essential GApps experience on Android devices.
 
-[![GitHub release][version-image total-image][version-url]
+[![GitHub release][version-image][version-url] [![GitHub total][total-image][version-url]
 
 **Implemented**
 
