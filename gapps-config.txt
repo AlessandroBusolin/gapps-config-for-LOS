@@ -23,6 +23,7 @@ CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
 Photos                 # Install Google Photos
+YouTube                # Install YouTube
 
 # Full+
 Chrome                 # Install Google Chrome Browser
