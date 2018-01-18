@@ -3,7 +3,7 @@
 # gapps-config-for-OPO
 > The gapps-config-for-OPO provides an essential GApps experience on Android devices.
 
-[![Build Status] [![GitHub release]][version-image]][version-url]
+[![GitHub release]][version-image]][version-url]
 
 **Implemented**
 
@@ -13,3 +13,8 @@
 
 This is the config file for a `basic installation`.
 Read this: [`OpenGApps Advanced Features and Options`](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options).
+
+<!-- Markdown link & img dfn's -->
+[version-image]: https://img.shields.io/github/downloads/AlessandroBusolin/gapps-config-for-OPO/total.svg
+
+[version-url]: https://github.com/AlessandroBusolin/gapps-config-for-OPO/releases/latest
