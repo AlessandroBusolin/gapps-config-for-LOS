@@ -22,7 +22,7 @@ ExchangeGoogle         # Install Google Exchange Services
 CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
-Photos                 # Install Google Photos
+# Photos                 # Install Google Photos (remove the first hash if you want Photos)
 YouTube                # Install YouTube
 
 # Full+
