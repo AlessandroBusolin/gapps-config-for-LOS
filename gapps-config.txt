@@ -16,7 +16,6 @@ PackageInstallerGoogle # Install Google Package Installer
 # BatteryUsage           # Install Device Health Services (WARNING! Use this line only if you install Android 7.1+, remove the first hash if you want the BatteryUsage)
 Gmail                  # Install Gmail
 CalendarGoogle         # Install Google Calendar
-ExchangeGoogle         # Install Google Exchange Services
 
 # Mini+
 CalculatorGoogle       # Install Google Calculator
