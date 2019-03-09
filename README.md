@@ -3,7 +3,7 @@
 # gapps-config-for-LOS
 > The gapps-config-for-LOS provides an essential GApps experience on Android devices.
 
-[![GitHub release][version-image]][version-url] ![GitHub total][total-image]
+[![GitHub release][version-image]][version-url] 
 
 **Implemented**
 
