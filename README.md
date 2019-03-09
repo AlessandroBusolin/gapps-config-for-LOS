@@ -1,13 +1,14 @@
 ![](http://opengapps.org/images/logo.svg)
 
-# gapps-config-for-OPO
-> The gapps-config-for-OPO provides an essential GApps experience on Android devices.
+# gapps-config-for-LOS
+> The gapps-config-for-LOS provides an essential GApps experience on Android devices.
 
 [![GitHub release][version-image]][version-url] ![GitHub total][total-image]
 
 **Implemented**
 
-	OPO: Ready for LineageOS 14.1, CyanogenMOD 13.0.
+	OnePlusOne: Ready for LineageOS 14.1, CyanogenMOD 13.0.
+	Nexus5x: Ready for LineageOS 15.1.
 
 **Description**
 
