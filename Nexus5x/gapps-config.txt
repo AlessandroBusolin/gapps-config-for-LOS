@@ -1,34 +1,33 @@
-# Nexus 5X base.
-
 Include
 
 # Pico+
-CalSync                 # Install Google Calendar Sync (if Google Calendar is being installed)
-DialerFramework         # Install Dialer Framework (Android 6.0+)
-GoogleTTS               # Install Google Text-to-Speech Engine (Micro+ on 5.0-, Pico+ on 6.0+)
-PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 8.0+)
+CalSync
+DialerFramework
+GoogleTTS
+PackageInstallerGoogle
 
 # Nano+
-BatteryUsage            # Install Device Health Services (Android 7.1+)
-Speech                  # Install Offline Speech Files
+BatteryUsage
+Speech
 
 # Micro+
-CalendarGoogle          # Install Google Calendar
-ExchangeGoogle          # Install Exchange Services
-Gmail                   # Install Gmail
+CalendarGoogle
+ExchangeGoogle
+Gmail
 
 # Mini+
-CalculatorGoogle        # Install Google Calculator (Android 5.0+)
-CarrierServices         # Install Carrier Services (Android 6.0+) (required for Google Messages)
-ClockGoogle             # Install Google Clock
-Maps                    # Install Google Maps
-Messenger               # Install Google Messages (except on tablet devices) (requires Carrier Services)
-Photos                  # Install Google Photos
+CalculatorGoogle
+CarrierServices
+ClockGoogle
+Maps
+Messenger
+Photos
 
 # Full+
-Chrome                  # Install Chrome
+Chrome
 
 # Stock+
-CameraGoogle            # Install Google Camera (Android 6.0+)
-ContactsGoogle          # Install Google Contacts (Android 5.1+)
-WebViewStub             # Install Android System Webview (Stub) (Android 7.0+) (See note with WebViewGoogle)
+CameraGoogle
+ContactsGoogle
+KeyboardGoogle
+WebViewStub
