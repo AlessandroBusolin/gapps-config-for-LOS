@@ -29,4 +29,5 @@ Chrome
 # Stock+
 CameraGoogle
 ContactsGoogle
+DialerGoogle
 WebViewStub
